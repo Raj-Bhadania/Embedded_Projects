@@ -1,0 +1,219 @@
+[Fri Dec  1 15:12:15 2023
+] Storing User Entered Register Data
+[Fri Dec  1 15:12:15 2023
+] User Input: 0x00800080
+[Fri Dec  1 15:12:15 2023
+] User Operation: 0x00000002
+[Fri Dec  1 15:12:15 2023
+]    Left-Operand value: 7
+[Fri Dec  1 15:12:15 2023
+]    Right-Operand value: 7
+[Fri Dec  1 15:12:15 2023
+] Data is ready to store into input variable address
+[Fri Dec  1 15:12:15 2023
+] Data package at Read-Knob Function: 0x00000727
+[Fri Dec  1 15:12:15 2023
+] 
+Value of operands in Main
+[Fri Dec  1 15:12:15 2023
+] Left: 7	Operator: 0020	Right: 7
+[Fri Dec  1 15:12:15 2023
+] Storing Value of Result and Error after Arithmatic Opearation in Main
+[Fri Dec  1 15:12:15 2023
+] Result Value in Main: 49[Fri Dec  1 15:12:15 2023
+] Result Value in Main: 0[Fri Dec  1 15:12:15 2023
+] Result Data Received into writeLedOutput Function
+[Fri Dec  1 15:12:15 2023
+] 
+Binay Value of Result is: [Fri Dec  1 15:12:15 2023
+] Binary Format Result : [Fri Dec  1 15:12:15 2023
+] 	Error = 0
+[Fri Dec  1 15:12:18 2023
+] 
+
+<-<-<-<-<-USER CHOSE TO EXIT FROM APPLICATION->->->->->
+
+[   Fri Dec  1 17:13:13 2023
+]Storing User Entered Register Data
+[   Fri Dec  1 17:13:13 2023
+]User Input: 0x00800080
+[   Fri Dec  1 17:13:13 2023
+]User Operation: 0x00000001
+[   Fri Dec  1 17:13:13 2023
+]   Left-Operand value: 7
+[   Fri Dec  1 17:13:13 2023
+]   Right-Operand value: 7
+[   Fri Dec  1 17:13:13 2023
+]Data is ready to store into input variable address
+[   Fri Dec  1 17:13:13 2023
+]Data package at Read-Knob Function: 0x00000717
+[   Fri Dec  1 17:13:13 2023
+]
+Value of operands in Main
+[   Fri Dec  1 17:13:13 2023
+]Left: 7	Operator: 0010	Right: 7
+[   Fri Dec  1 17:13:13 2023
+]Storing Value of Result and Error after Arithmatic Opearation in Main
+[   Fri Dec  1 17:13:13 2023
+]Result Value in Main: 14
+[   Fri Dec  1 17:13:13 2023
+]Result Value in Main: 0
+[   Fri Dec  1 17:13:13 2023
+]Result Data Received into writeLedOutput Function
+[   Fri Dec  1 17:13:13 2023
+]Binary Format Result : 
+[   Fri Dec  1 17:13:13 2023
+]	Error = 0
+[   Fri Dec  1 17:32:08 2023
+]
+
+<-<-<-<-<-USER CHOSE TO EXIT FROM APPLICATION->->->->->
+
+[   Fri Dec  1 17:44:12 2023
+]Storing User Entered Register Data
+[   Fri Dec  1 17:44:12 2023
+]User Input: 0x00800080
+[   Fri Dec  1 17:44:12 2023
+]User Operation: 0x00000001
+[   Fri Dec  1 17:44:12 2023
+]   Left-Operand value: 7
+[   Fri Dec  1 17:44:12 2023
+]   Right-Operand value: 7
+[   Fri Dec  1 17:44:12 2023
+]Data is ready to store into input variable address
+[   Fri Dec  1 17:44:12 2023
+]Data package at Read-Knob Function: 0x00000717
+[   Fri Dec  1 17:44:12 2023
+]
+Value of operands in Main
+[   Fri Dec  1 17:44:12 2023
+]Left: 7	Operator: 0010	Right: 7
+[   Fri Dec  1 17:44:12 2023
+]Storing Value of Result and Error after Arithmatic Opearation in Main
+[   Fri Dec  1 17:44:12 2023
+]Result Value in Main: 14
+[   Fri Dec  1 17:44:12 2023
+]Result Value in Main: 0
+[   Fri Dec  1 17:44:12 2023
+]Result Data Received into writeLedOutput Function
+[   Fri Dec  1 17:44:12 2023
+]Binary Format Result : 
+[   Fri Dec  1 17:44:12 2023
+]	Error = 0
+[   Fri Dec  1 17:44:42 2023
+]
+
+<-<-<-<-<-USER CHOSE TO EXIT FROM APPLICATION->->->->->
+
+[Sat Dec  2 08:43:25 2023]Storing User Entered Register Data
+[Sat Dec  2 08:43:25 2023]User Input: 0x00800800
+[Sat Dec  2 08:43:25 2023]User Operation: 0x00000001
+[Sat Dec  2 08:43:25 2023]   Left-Operand value: 7
+[Sat Dec  2 08:43:25 2023]   Right-Operand value: 11
+[Sat Dec  2 08:43:25 2023]Data is ready to store into input variable address
+[Sat Dec  2 08:43:25 2023]Data package at Read-Knob Function: 0x00000B17
+[Sat Dec  2 08:43:25 2023]
+Value of operands in Main
+[Sat Dec  2 08:43:25 2023]Left: 7	Operator: 0010	Right: 11
+[Sat Dec  2 08:43:25 2023]Storing Value of Result and Error after Arithmatic Opearation in Main
+[Sat Dec  2 08:43:25 2023]Result Value in Main: 18
+[Sat Dec  2 08:43:25 2023]Result Value in Main: 0
+[Sat Dec  2 08:43:25 2023]Result Data Received into writeLedOutput Function
+[Sat Dec  2 08:43:25 2023]Binary Format Result : 
+[Sat Dec  2 08:43:25 2023]	Error = 0
+[Sat Dec  2 08:43:29 2023]
+
+<-<-<-<-<-USER CHOSE TO EXIT FROM APPLICATION->->->->->
+
+[Sat Dec  2 09:26:29 2023]		Storing User Entered Register Data
+[Sat Dec  2 09:26:29 2023]		User Input: 0x00800800
+[Sat Dec  2 09:26:29 2023]		User Operation: 0x00000001
+[Sat Dec  2 09:26:29 2023]		Left-Operand value: 7
+[Sat Dec  2 09:26:29 2023]		Right-Operand value: 11
+[Sat Dec  2 09:26:29 2023]		Data is ready to be stored into input variable address
+[Sat Dec  2 09:26:29 2023]		Data package at Read-Knob Function:	0x00000B17
+[Sat Dec  2 09:26:29 2023]		Value of operands in Main
+[Sat Dec  2 09:26:29 2023]		Left: 7	Operator: 0010	Right: 11
+[Sat Dec  2 09:26:29 2023]		Storing Value of Result and Error after Arithmatic Opearation in Main
+[Sat Dec  2 09:26:29 2023]		Result Value in Main: 18
+[Sat Dec  2 09:26:29 2023]		Result Value in Main: 0
+[Sat Dec  2 09:26:29 2023]		Result Data Received into writeLedOutput Function
+00010010[Sat Dec  2 09:26:29 2023]			Error = 0
+
+
+<-<-<-<-<-USER CHOSE TO EXIT FROM APPLICATION->->->->->
+
+[Sat Dec  2 09:29:13 2023]		Storing User Entered Register Data
+[Sat Dec  2 09:29:13 2023]		User Input: 0x00800800
+[Sat Dec  2 09:29:13 2023]		User Operation: 0x00000001
+[Sat Dec  2 09:29:13 2023]		Left-Operand value: 7
+[Sat Dec  2 09:29:13 2023]		Right-Operand value: 11
+[Sat Dec  2 09:29:13 2023]		Data is ready to be stored into input variable address
+[Sat Dec  2 09:29:13 2023]		Data package at Read-Knob Function:	0x00000B17
+[Sat Dec  2 09:29:13 2023]		Value of operands in Main
+[Sat Dec  2 09:29:13 2023]		Left: 7	Operator: 0010	Right: 11
+[Sat Dec  2 09:29:13 2023]		Storing Value of Result and Error after Arithmatic Opearation in Main
+[Sat Dec  2 09:29:13 2023]		Result Value in Main: 18
+[Sat Dec  2 09:29:13 2023]		Result Value in Main: 0
+[Sat Dec  2 09:29:13 2023]		Result Data Received into writeLedOutput Function
+[Sat Dec  2 09:29:13 2023]		Binay Value of Result is: 00010010	Error = 0
+
+
+<-<-<-<-<-USER CHOSE TO EXIT FROM APPLICATION->->->->->
+
+[Sat Dec  2 10:58:57 2023]		Storing User Entered Register Data
+[Sat Dec  2 10:58:57 2023]		User Input: 0x00800800
+[Sat Dec  2 10:58:57 2023]		User Operation: 0x00000004
+[Sat Dec  2 10:58:57 2023]		Left-Operand value: 7
+[Sat Dec  2 10:58:57 2023]		Right-Operand value: 11
+[Sat Dec  2 10:58:57 2023]		Data is ready to be stored into input variable address
+[Sat Dec  2 10:58:57 2023]		Data package at Read-Knob Function:	0x00000B47
+[Sat Dec  2 10:58:57 2023]		Value of operands in Main
+[Sat Dec  2 10:58:57 2023]		Left: 7	Operator: 0040	Right: 11
+[Sat Dec  2 10:58:57 2023]		Storing Value of Result and Error after Arithmatic Opearation in Main
+[Sat Dec  2 10:58:57 2023]		Result Value in Main: -4
+[Sat Dec  2 10:58:57 2023]		Result Value in Main: 0
+[Sat Dec  2 10:58:57 2023]		Result Data Received into writeLedOutput Function
+[Sat Dec  2 10:58:57 2023]		Binay Value of Result is: 11111100	Error = 0
+
+
+<-<-<-<-<-USER CHOSE TO EXIT FROM APPLICATION->->->->->
+
+[Sat Dec  2 11:07:16 2023]		Storing User Entered Register Data
+[Sat Dec  2 11:07:16 2023]		User Input: 0x00408000
+[Sat Dec  2 11:07:16 2023]		User Operation: 0x00000004
+[Sat Dec  2 11:07:16 2023]		Left-Operand value: 6
+[Sat Dec  2 11:07:16 2023]		Right-Operand value: 15
+[Sat Dec  2 11:07:16 2023]		Data is ready to be stored into input variable address
+[Sat Dec  2 11:07:16 2023]		Data package at Read-Knob Function:	0x00000F46
+[Sat Dec  2 11:07:16 2023]		Value of operands in Main
+[Sat Dec  2 11:07:16 2023]		Left: 6	Operator: 0040	Right: 15
+[Sat Dec  2 11:07:16 2023]		Storing Value of Result and Error after Arithmatic Opearation in Main
+[Sat Dec  2 11:07:16 2023]		Result Value in Main: -9
+[Sat Dec  2 11:07:16 2023]		Result Value in Main: 0
+[Sat Dec  2 11:07:16 2023]		Result Data Received into writeLedOutput Function
+[Sat Dec  2 11:07:16 2023]		Storing result for better understanding[Sat Dec  2 11:07:16 2023]		Result in integer form:	-9[Sat Dec  2 11:07:16 2023]		Binay Value of Result is: 11110111	Error = 0
+
+
+<-<-<-<-<-USER CHOSE TO EXIT FROM APPLICATION->->->->->
+
+[Sat Dec  2 11:09:54 2023]		Storing User Entered Register Data
+[Sat Dec  2 11:09:54 2023]		User Input: 0x00408000
+[Sat Dec  2 11:09:54 2023]		User Operation: 0x00000004
+[Sat Dec  2 11:09:54 2023]		Left-Operand value: 6
+[Sat Dec  2 11:09:54 2023]		Right-Operand value: 15
+[Sat Dec  2 11:09:54 2023]		Data is ready to be stored into input variable address
+[Sat Dec  2 11:09:54 2023]		Data package at Read-Knob Function:	0x00000F46
+[Sat Dec  2 11:09:54 2023]		Value of operands in Main
+[Sat Dec  2 11:09:54 2023]		Left: 6	Operator: 0040	Right: 15
+[Sat Dec  2 11:09:54 2023]		Storing Value of Result and Error after Arithmatic Opearation in Main
+[Sat Dec  2 11:09:54 2023]		Result Value in Main: -9
+[Sat Dec  2 11:09:54 2023]		Result Value in Main: 0
+[Sat Dec  2 11:09:54 2023]		Result Data Received into writeLedOutput Function
+[Sat Dec  2 11:09:54 2023]		Storing result for better understanding
+[Sat Dec  2 11:09:54 2023]		Result in integer form:	-9
+[Sat Dec  2 11:09:54 2023]		Binay Value of Result is: 11110111	Error = 0
+
+
+<-<-<-<-<-USER CHOSE TO EXIT FROM APPLICATION->->->->->
+
