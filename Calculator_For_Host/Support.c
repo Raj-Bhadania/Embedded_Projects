@@ -161,7 +161,7 @@ return log message with/without time stamp into defined text file
 void Log_to_File(bool date_stamp, const char *message, ...)
 {
     
-    FILE *file = fopen("/Users/rajbhadania/C_Projects/Embedded_Projects/Calculator_Data_log.txt", "a");
+    FILE *file = fopen("//Users/rajbhadania/C_Projects/Embedded_Projects/Calculator_For_Host/Calculator_Data_log.txt", "a");
     // declaration of FILE type pointer to 'file' variable
     // fopen will open file into append mode at given address
     // on sucess it will return pointer to 'file' if not than return NULL to 'file' pointer
