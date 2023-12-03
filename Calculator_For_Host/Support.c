@@ -6,7 +6,7 @@
 #include <stdarg.h>
 #include <string.h>
 
-// used define header file
+// user define header file
 #include "Header.h"
 
 /*
